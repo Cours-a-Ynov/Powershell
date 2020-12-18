@@ -1,4 +1,4 @@
-# Eval Shell-Powershell  Pour le 15/12/2020 18H
+# Eval Shell-Powershell  Pour le 18/12/2020 18H
 
 # PowerShell
 J'ai choisi de parler de powershell car étant sous Windows je prefere connaitre plus en profondeur ce type de gestionnaire d'administration.
