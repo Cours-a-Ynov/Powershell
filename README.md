@@ -14,7 +14,7 @@ J'ai choisi de parler de powershell car étant sous Windows je prefere connaitre
 - [A quoi sert-il ?](https://github.com/Malo44490/Powershell/blob/main/Cours/A%20quoi%20sert%20t-il%20.md)
 - [L'Installation](https://github.com/Malo44490/Powershell/blob/main/Cours/L'instalations.md)
 - [Exercices](https://github.com/Malo44490/Powershell/blob/main/Cours/Exercices.md)
-- [Les sources](https://github.com/Malo44490/Shell-Powershell/blob/main/Sources.md)
+- [Les sources](https://github.com/Malo44490/Powershell/blob/main/Cours/Sources.md)
 - [Ce que je pense](https://github.com/Malo44490/Shell-Powershell#ce-que-je-pense)
 
 # Intro
