@@ -8,4 +8,4 @@ Windows PowerShell est un interpréteur de commandes conçu pour simplifier la g
 
 À l'aide de PowerShell, vous pouvez facilement obtenir des données sur les paramètres système courants, modifier les objets, gérer les services et gérer l'accès au système (y compris le système de fichiers). La maîtrise des scripts PowerShell peut vous faire gagner du temps pour de nombreuses fonctions de gestion sans avoir à acheter ou à implémenter des outils tiers.
 
-[Retour au sommaire](https://github.com/Malo44490/Shell-Powershell/blob/main/README.md)
+[Retour au sommaire](https://github.com/Malo44490/Powershell/blob/main/README.md#sommaire)
