@@ -49,4 +49,4 @@ default { code à exécuter si test est égal à aucune des autres valeurs }
 }
 ```
 
-[Retour au sommaire](https://github.com/Malo44490/Shell-Powershell/blob/main/README.md)
+[Retour au sommaire](https://github.com/Malo44490/Powershell/blob/main/README.md#sommaire)
