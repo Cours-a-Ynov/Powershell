@@ -7,4 +7,4 @@ Vous trouverez ici les lien de mes recherche pour avoir construit ce cours.
 - Page WEB : https://www.it-connect.fr
 - Linkedin learning : https://www.linkedin.com/learning/l-essentiel-de-powershell-5/bienvenue-dans-l-essentiel-de-powershell-5?u=56745737
 
-[Retour au sommaire](https://github.com/Malo44490/Shell-Powershell/blob/main/README.md)
+[Retour au sommaire](https://github.com/Malo44490/Powershell/blob/main/README.md#sommaire)
