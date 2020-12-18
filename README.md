@@ -4,7 +4,7 @@
 J'ai choisi de parler de powershell car étant sous Windows je prefere connaitre plus en profondeur ce type de gestionnaire d'administration.
 
 # Sommaire
-- [Intro](https://github.com/Malo44490/Shell-Powershell/blob/main/README.md#intro)
+- [Intro](https://github.com/Malo44490/Powershell#intro)
 - [Histoire](https://github.com/Malo44490/Powershell/blob/main/Cours/Histoire.md)
 - [La Console](https://github.com/Malo44490/Powershell/blob/main/Cours/La%20console.md)
 - [Gestion des fichiers](https://github.com/Malo44490/Powershell/blob/main/Cours/Gestion%20des%20fichier.md)
