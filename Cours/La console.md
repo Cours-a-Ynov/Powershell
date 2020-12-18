@@ -19,4 +19,4 @@ Vous pouvez utiliser la souris dans la console ! afin de copier/coller du texte.
 3 – “Clic gauche” sur le point d’insertion désiré   
 4 – “Clic droit” = “Coller”
 
-[Retour au sommaire](https://github.com/Malo44490/Shell-Powershell/blob/main/README.md)
+[Retour au sommaire](https://github.com/Malo44490/Powershell/blob/main/README.md#sommaire)
