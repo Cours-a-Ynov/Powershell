@@ -28,4 +28,4 @@ New permet de créer de nouveaux objets ou variable ;
 Set permet de définir des données ou informations sur le nom qui le suit ;
 Write permet d'écrire des données ou informations sur le nom qui le suit et peut agir comme le compte-rendu d'une commande.
 
-[Retour au sommaire](https://github.com/Malo44490/Shell-Powershell/blob/main/README.md)
+[Retour au sommaire](https://github.com/Malo44490/Powershell/blob/main/README.md#sommaire)
