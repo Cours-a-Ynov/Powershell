@@ -10,7 +10,7 @@ J'ai choisi de parler de powershell car étant sous Windows je prefere connaitre
 - [Gestion des fichiers](https://github.com/Malo44490/Powershell/blob/main/Cours/Gestion%20des%20fichier.md)
 - [Les Commandes de base](https://github.com/Malo44490/Powershell/blob/main/Cours/Les%20commandes%20de%20bases.md)
 - [Les Variables PowerShell](https://github.com/Malo44490/Shell-Powershell/blob/main/Les%20variables%20Powershell.md)
-- [Les Conditions](https://github.com/Malo44490/Shell-Powershell/blob/main/Les%20conditions.md)
+- [Les Conditions](https://github.com/Malo44490/Powershell/blob/main/Cours/Les%20conditions.md)
 - [A quoi sert-il ?](https://github.com/Malo44490/Powershell/blob/main/Cours/A%20quoi%20sert%20t-il%20.md)
 - [L'Installation](https://github.com/Malo44490/Powershell/blob/main/Cours/L'instalations.md)
 - [Exercices](https://github.com/Malo44490/Powershell/blob/main/Cours/Exercices.md)
