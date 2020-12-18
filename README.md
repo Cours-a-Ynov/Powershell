@@ -15,7 +15,7 @@ J'ai choisi de parler de powershell car étant sous Windows je prefere connaitre
 - [L'Installation](https://github.com/Malo44490/Powershell/blob/main/Cours/L'instalations.md)
 - [Exercices](https://github.com/Malo44490/Powershell/blob/main/Cours/Exercices.md)
 - [Les sources](https://github.com/Malo44490/Powershell/blob/main/Cours/Sources.md)
-- [Ce que je pense](https://github.com/Malo44490/Shell-Powershell#ce-que-je-pense)
+- [Ce que je pense](https://github.com/Malo44490/Powershell/blob/main/README.md#ce-que-je-pense)
 
 # Intro
 C'est quoi Power Shell . Le langage PowerShell est désormais incontournable pour l'administration des systèmes d'exploitation Windows, ainsi que pour l'automatisation de certaines tâches. Dans le même temps, Microsoft développe une version compatible Linux, ce côté multiplate-forme le rend, à mon sens, encore plus attractif et son apprentissage pertinent. Powershell, ou plutôt Windows Powershell est une suite logicielle, c'est-à-dire qu'il propose plusieurs logiciels. Parmi les logiciels que Powershell offre, il y a une interface en ligne de commande pas mal utilisée. Contrairement à ses prédécesseurs, Powershell permet d'accéder à tous les composants de la machine de l'utilisateur. Un premier avantage quant au fait d'utiliser Windows Powershell et pas un autre. Permettant beaucoup plus de choses avec une grande simplicité, notamment pour les gestions internes à la machine, Powershell s'impose comme THE invite des commandes.
