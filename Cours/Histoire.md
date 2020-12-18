@@ -18,4 +18,4 @@
 
 16 Décembre 2006 : Exchange Server 2007 RTM est mis en ligne sur les sites de téléchargement. C'est le premier produit basé sur une interface en ligne de commande issue de Windows PowerShell.
 
-[Retour au sommaire](https://github.com/Malo44490/Shell-Powershell/blob/main/README.md)
+[Retour au sommaire](https://github.com/Malo44490/Powershell/blob/main/README.md#sommaire)
