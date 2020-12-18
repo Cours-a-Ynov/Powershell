@@ -1,4 +1,4 @@
-# Gestion de fichiers
+# Gestion des fichiers
 New-Item -Path . -Name "Nom fichier" -ItemType "type" : Commande asser complexe servent à créé toute
 sorte de chose.
 
