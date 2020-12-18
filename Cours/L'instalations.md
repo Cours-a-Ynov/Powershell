@@ -33,4 +33,4 @@ pwsh
 Si certaines commandes powershell ne fonctionnent pas même en tant qu’administrateur :
 Panneau de confinguration (dans la barre de recherche) – Compte utilisateur – Compte utilisateur – Modifier les paramètres de contrôles du compte utilisateur – baisser la jauge aux plus bas
 
-[Retour au sommaire](https://github.com/Malo44490/Shell-Powershell/blob/main/README.md)
+[Retour au sommaire](https://github.com/Malo44490/Powershell/blob/main/README.md#sommaire)
